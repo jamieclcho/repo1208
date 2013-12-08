@@ -14,7 +14,8 @@ import android.view.View;
  * An example full-screen activity that shows and hides the system UI (i.e.
  * status bar and navigation/system bar) with user interaction.
  * 
- * comment added by clcho
+ * first comment added by clcho
+ * second comment added by clcho
  * 
  * @see SystemUiHider
  */
